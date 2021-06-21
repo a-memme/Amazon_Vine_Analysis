@@ -4,7 +4,7 @@ Using Apache Spark to access large-scale data files (amazon review data) via AWS
 
 ## Results
 ### Vine Reviews 
-*See image below to reference values - see Vine_Review_Analysis.ipynb for full code*
+*See images below to reference values and paid & unpaid review dataframes (respectively) - see Vine_Review_Analysis.ipynb for full code*
 - The number of paid kitchen reviews are substantially smaller in quantity vs unpaid reviews (1207 paid, 97,839 unpaid).
 - There were a total of 509 five-star vine reviews, while non-vine (unpaid) reviews saw a total of 45,858 five star reviews.
 - Although there was a substantially larger number of non-vine total reviews and five-star reviews vs. those seen in the vine reviews, the percentage of five star reviews in both categories were relatively close in proportion. Paid reviews had 42.17% 5 star reviews while unpaid reviews had 46.87% 5 star reviews. 
