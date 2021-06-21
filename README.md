@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Overview of Analysis 
-Using Apache Spark to access large-scale data files (amazon review data) via AWS, and performing ETL on this Amazon Product Review data using PySpark and storing in a RDS. Data was then edited and cleaned to check for biases with use of Pandas - this aspect of the analysis was crucial in providing insight on paid vs unpaid reviews in quantity and quality.
+Using Apache Spark to access large data files (amazon review data) via AWS, and performing ETL on this Amazon Product Review data using PySpark and storing in a RDS. Data was then edited and cleaned to check for biases with use of Pandas - this aspect of the analysis was crucial in providing insight on paid vs unpaid reviews in quantity and quality.
 
 ## Results
 ### Vine Reviews 
