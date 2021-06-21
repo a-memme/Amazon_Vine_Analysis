@@ -21,3 +21,5 @@ Although the incentive in paid reviews (i.e vine reviews) poses a realistic poss
 An extension to this analysis that could be performed to help control for biases further would be to filter only for reviews with verified purchases. This seems to be an obvious factor when trying to determine whether a review could be genuine or not - controlling for this factor would help paint a more reliable picture of both paid and non-paid reviews given all reviews have been written by customers who have proof of purchase.
 
 
+*Note - the error redndered when writing the review_id_df to the RDS occurred only because it was ran twice - the image below shows the data fully loaded in postgreSQL with no issues*
+
